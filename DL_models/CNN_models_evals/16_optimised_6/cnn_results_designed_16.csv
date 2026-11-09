@@ -1,0 +1,2 @@
+feature_set,n_features,accuracy,precision_weighted,recall_weighted,f1_weighted,f1_macro,train_time_s,inference_time_s,inference_ms_per_sample,model_params
+designed_16,6,0.6400310468613564,0.8196136213548154,0.6400310468613564,0.6793160163075387,0.3838950650058782,567.7745401859283,2.183006763458252,0.04235969270317749,59402
