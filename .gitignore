@@ -1,0 +1,18 @@
+# Data and Logs
+*.csv
+*.pcap
+*.log
+
+# ML Models
+*.pkl
+*.h5
+*.pt
+
+# Python Environment & Cache
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# IDE Settings
+.vscode/
